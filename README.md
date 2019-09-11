@@ -1,3 +1,5 @@
+This project is no longer active and has been archived.  The Channel code/functionality has been moved into https://github.com/microsoft/ApplicationInsights-JS/tree/master/channels in the https://github.com/microsoft/ApplicationInsights-JS project.
+
 # Microsoft Application Insights JavaScript SDK - Channel
 
 Channel layer for the Application Insights JavaScript SDK
